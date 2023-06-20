@@ -1,10 +1,18 @@
-h1{
-    color: red;
+h1 {
+  color: white;
 }
-.completed{
-    text-decoration: line-through;
-    color: gray;
+.completed {
+  text-decoration: line-through;
+  color: gray;
 }
-.not{
-    text-decoration: underline;
+.not {
+  text-decoration: underline;
+}
+
+.todo {
+  font-size: 1.5rem;
+}
+
+.del {
+  float: right;
 }
